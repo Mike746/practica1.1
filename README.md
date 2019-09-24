@@ -1,2 +1,2 @@
-# practica1.1
-calculadora
+# 1er semestre
+practicas
